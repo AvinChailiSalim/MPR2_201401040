@@ -6,3 +6,5 @@
 
 #### Buatlah aplikasi android yang dapat mengrim objek activity lain dan memiliki implisit intent.
 > Screenshot tampilan dimasukkan dalam readme
+<img src="Screenshot_20221019-210124.png">
+<img src="Screenshot_20221019-210903.png">
