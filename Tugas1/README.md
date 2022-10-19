@@ -9,3 +9,4 @@
 - EditText.
 
 > Screenshot tampilan dimasukkan dalam readme
+<img src="Screenshot_20221019-200925.png">
