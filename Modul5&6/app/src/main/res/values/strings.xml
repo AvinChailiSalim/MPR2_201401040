@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Modul5</string>
+
+    <string-array name="card_name">
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+        <item> Branded </item>
+    </string-array>
+
+    <string-array name="card_description">
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+        <item> Despia </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/accesscode</item>
+        <item>@drawable/accesscode</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+    </integer-array>
+</resources>
